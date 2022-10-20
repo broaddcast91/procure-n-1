@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../krishna/css-practise"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Procure-N"
+	}
+}
