@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Bootstrap-5-Demo-main"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "procure-n-1"
+  }
+}
